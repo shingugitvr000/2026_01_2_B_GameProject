@@ -21,4 +21,4 @@ MonoBehaviour:
   - {fileID: 11400000, guid: 0a924ab1cb6b97f4d8f33427a5e7d7f5, type: 2}
   - {fileID: 11400000, guid: 572dfba394384644991867f2ce203216, type: 2}
   portrait: {fileID: 0}
-  portraitPath: 
+  portraitPath: Characters/Merchant
